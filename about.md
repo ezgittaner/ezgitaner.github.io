@@ -15,4 +15,3 @@ Kararsızlığımın bir getirisi olarak; başarmak için karar vermek benim iç
 
 ### Contact me
 
-[ezgittaner@gmail.com](mailto:ezgittaner@gmail.com)
