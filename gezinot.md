@@ -1,5 +1,5 @@
 ---
-layout: deneme
+layout: page
 title: 20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;
 permalink: /gezinot/
 ---
