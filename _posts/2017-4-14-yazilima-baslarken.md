@@ -13,9 +13,9 @@ Gerçekten elimden geldiğince kısa sürede çok yol katedeceğime de inanıyor
 Cebimde merak, heves ve inançla yürümeye başladım.
 
 
-Bundan 4 sene önce okulda seçmeli ders olarak aldığım ve mesleğimle ilgisi olmayan Visual Basic yazılım konusunda unutulmazım olacak.
+Bundan 6 sene önce okulda seçmeli ders olarak aldığım ve mesleğimle ilgisi olmayan Visual Basic yazılım konusunda unutulmazım olacak.
 Basit bir dil ama kod konusunda hiç bilgi sahibi olmayan benim için eğlenceliydi. O zaman kod yazmayı sevdiğimi, yapabileceğimi hissettim.
-Uzun lafın kısası; üzerinden geçen 4 yılın sonunda bu bolgu yazıyorum ve yazılıma başlıyorum :)
+Uzun lafın kısası; üzerinden geçen 6 yılın sonunda bu bolgu yazıyorum ve yazılıma başlıyorum :)
 
 
 
