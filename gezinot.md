@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;
-permalink: /gezinot/
+permalink: /gezinotlarim/
 ---
 
 Uçuşumuz yaklaşık olarak 1 saat 20 dakika sürdü, indiğimiz zaman Türkiye ile Sırbistan saat farkının 2 saat olduğunu öğrenmiş olduk. 
