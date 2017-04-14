@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: Yazılıma Başlarken..
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Benim gibi yazılıma başlamak, bu yolda devam etmek isteyenler için yaşadığım süreçleri sizelere anlatıyor olacağım.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Bunun kararını vermek bu süreçteki ilk ve sanırım en büyük adımım olacak.
+Şunu söylemeliyim ki yazılım konusunda hiç bir bilgim olmadan bu kararı aldım, sadece ilgim ve hevesim var şuanda. 
+Gerçekten elimden geldiğince kısa sürede çok yol katedeceğime de inanıyorum. 
+Cebimde merak, heves ve inançla yürümeye başladım.
+
+
+Bundan 4 sene önce okulda seçmeli ders olarak aldığım ve mesleğimle ilgisi olmayan Visual Basic yazılım konusunda unutulmazım olacak.
+Basit bir dil ama kod konusunda hiç bilgi sahibi olmayan benim için eğlenceliydi. O zaman kod yazmayı sevdiğimi, yapabileceğimi hissettim.
+Uzun lafın kısası; üzerinden geçen 4 yılın sonunda bu bolgu yazıyorum ve yazılıma başlıyorum :)
+
+
+Öncelikle önerim codecademy.com. İstediğiniz yazılım dilini eğlenceli bir şekilde öğrenmenizi sağlıyor.
