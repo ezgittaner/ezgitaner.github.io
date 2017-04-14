@@ -6,6 +6,7 @@ title: Yazılıma Başlarken..
 Benim gibi yazılıma başlamak, bu yolda devam etmek isteyenler için yaşadığım süreçleri sizelere anlatıyor olacağım.
 
 
+
 Bunun kararını vermek bu süreçteki ilk ve sanırım en büyük adımım olacak.
 Şunu söylemeliyim ki yazılım konusunda hiç bir bilgim olmadan bu kararı aldım, sadece ilgim ve hevesim var şuanda. 
 Gerçekten elimden geldiğince kısa sürede çok yol katedeceğime de inanıyorum. 
