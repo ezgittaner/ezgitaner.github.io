@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fotolar deneme
+title: Yapım Aşamasında
 permalink: /fotograflar/
 ---
 
