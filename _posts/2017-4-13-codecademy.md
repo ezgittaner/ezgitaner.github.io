@@ -1,6 +1,6 @@
 ---
 layout: post
-title: codeacademy.com
+title: codecademy.com
 ---
 
 2 sene önde uçağımın 3 saat rötar yapması ile İzmir Adnan Menderes Havalimanında codecademy.com ile tanıştım ve yazılım dillerinden biri olan ''python''ı orada öğrenmeye başladım.
