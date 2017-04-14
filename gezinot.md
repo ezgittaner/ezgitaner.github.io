@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Gezi Notlarım
+title: 20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;
 permalink: /gezinot/
 ---
-###20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;
 
 Uçuşumuz yaklaşık olarak 1 saat 20 dakika sürdü, indiğimiz zaman Türkiye ile Sırbistan saat farkının 2 saat olduğunu öğrenmiş olduk.  
 Pasaport kontrole girmeden önce Sırbistan polisleri uçak çıkışında pasaportlarımızı kontrol ettiler, eğer daha önce Avrupaya giriş-çıkışınız ya da herhangi bir vizeniz yoksa pasaportunuzu alıp sizi bekletiyorlar. Daha sonra klasik sorular..;  Neden buraya geldiğimizi, ne kadar paramız olduğunu ve kaç gün kalacağımızı sordular. Evliliğim nedeniyle pasaportum yeni olduğundan daha önceki Avrupa seyahatlerim ve vizelerim pasaportumda yoktu ve ben de bu sorulara maruz kaldım  (Yanınızda gidiş-dönüş e-biletinizin çıktısının ve otel rezervasyonunuzun olması işinizi kolaylaştırır.) Kimseyi geri göndermediler, prosedür gereği sorulara cevap verip pasaportumu aldıktan sonra pasaport kontrolden geçerek Belgrad’a ayak basmış olduk.
