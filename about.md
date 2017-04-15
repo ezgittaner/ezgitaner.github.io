@@ -4,7 +4,7 @@ title: About me!
 permalink: /about/
 ---
 
-2017 Yıldız Teknik Üniversitesi İnşaat Fakültesi Çevre Mühendisliği lisans mezunuyum.
+2014 Yıldız Teknik Üniversitesi İnşaat Fakültesi Çevre Mühendisliği lisans mezunuyum.
 Sayılarla ve problem çözmeyle mutlu olan bir yapım var..
 
 Asıl mesleğim olan Çevre Mühendisliği konusunda ilerleme kaydetmek için içimden gelmeyen hırsı yazılımda bulduğuma inanıyorum. 
