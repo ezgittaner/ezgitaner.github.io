@@ -33,3 +33,5 @@ Programlama ve işaretleme dilleri;
 * T-SQL
 * Javascript
 
+Bunları kavradıktan sonra yolumuza devam edeceğiz..
+
