@@ -13,15 +13,18 @@ Odaklandığımız nokta şu anda e-ticaret sitelerinin test yazılımları. Ba�
 Asıl odak noktamız olan test yazılımlarına ve sitelerin test edilme aşamalarına geçmeden önce; Quality Assurance ( kalite güvence ) nedir, kullanılan yazılım dilleri, faydalanabileceğim kaynaklar nelerdir ve test için bilmem gereken tanımlar, test çeşitleri nelerdir, bunların üzerinden geçtik.
 
 
-Testlerin değişik varyasyonları;
+QA Specialist olma yolunda üzerinde çalışacağım konular;
 
-* CI/CD 
-* Agile (Scrum/Kanban)
 * Load / Stres Test
 * Security Test
-* Somke Test
+* Smoke Test
 * Regresyon Testi
 * Monitoring / Logging
+* Manual Testing
+* Test Otomasyonu
+* Continuous Integration
+* CI/CD 
+* Agile (Scrum/Kanban)
 
 Programlama ve işaretleme dilleri;
 
