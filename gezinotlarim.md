@@ -71,3 +71,5 @@ Hamburg'da hoşumuza giden şey düzeni ve kuralları oldu. Şehri gezerken şeh
 Hafencity Hamburg'da görülmesi gereken yerler arasında bence başta geliyor. Hafencity'e gitmek için toplu taşıma teknelerini kullandık. Burada aynı zamanda turistler için citytour yapan gezi tekneleri de mevcut fakat bizim için ulaşım teknesi yeterli oldu. 
 
 <img src="http://imageshack.com/a/img922/3766/2ZIgHv.jpg">
+
+
