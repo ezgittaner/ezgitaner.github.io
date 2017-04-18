@@ -6,7 +6,7 @@ permalink: /gezinotlarim/
 
 **Sırbistan/Belgrad**
 
-__20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;__
+*20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;*
  
 Uçuşumuz yaklaşık olarak 1 saat 20 dakika sürdü, indiğimiz zaman Türkiye ile Sırbistan saat farkının 2 saat olduğunu öğrenmiş olduk.
 
@@ -26,7 +26,7 @@ Bu tür gezilerde şehrin toplu taşıma hatlarının da gösterildiği bir hari
 Tesla’nın Belgrad için önemini de görmüş olduk. Nikola Tesla Sırp asıllı bir mucit, bu nedenle şehirde Tesla ile ilgili çokça şey görmek mümkün.  Televizyonlar, klimalar genellikle Tesla marka ayrıca paralarının üzerinde de Nikola Tesla’nın fotoğrafı var. Nikola Tesla Müzesi de görülmesi gereken yerler arasında.
 
 
-Kaldığımız otel ‘’Hotel Bohemian Garni *** ’’ ,  booking.com üzerinden rezervasyon yaptık. Çalışanları ve ortamları çok samimiydi. Kaldığımız oda çok genişti ve minimalist tasarlanmıştı. 
+Kaldığımız otel *‘’Hotel Bohemian Garni *** ’’* ,  booking.com üzerinden rezervasyon yaptık. Çalışanları ve ortamları çok samimiydi. Kaldığımız oda çok genişti ve minimalist tasarlanmıştı. 
 
  
 Sırbistan’ın parası biraz değersiz bu nedenle şehir ve şehir de yaşayan insanlar da orta düzey. Genel olarak yeme-içme çok ucuza geliyor fakat giyim ve elektronik konusunda Türkiye’ye göre  pahalı.
@@ -49,11 +49,13 @@ geliyor.
 Şehirdeki ulaşım seçenekleri;  otobüsler, ray hatları ve troleybüsler. Genellikle bu ulaşım araçları eski; evler, yapılar da eski mimari.
  
 
-__23.02.2017 12:05 Belgrad Nikola Tesla Havalimanı-İstanbul Sabiha Gökçen;__
+*23.02.2017 12:05 Belgrad Nikola Tesla Havalimanı-İstanbul Sabiha Gökçen;*
 
 3 gece 4 gün geçirmiş olduğumuz zaman dilimi Belgrad’ı  gezmemiz için tam kararındaydı. Dönüşte haritayı kullanarak A1 havalimanı transferinin olduğu noktaya ulaştık ve havalimanına kolayca gittik. Merkez – Havalimanı arası yaklaşık yarım saat sürdü. Havalimanında pasaport kontrolden geçtiğinizde genel olarak Sırbistan çıkış damgası basmıyorlar. Ama sisteme girildiğinden bu herhangi bir sorun teşkil etmiyor. Güvenlik kontrolünden geçtikten sonra uçağı bekleyeceğimiz oda(!) ya ulaştık. Havalimanı da eski ve beklediğimiz yer de çok küçüktü. Yarım saat rötarla uçağımıza binerek tatilimizi noktalamış olduk.
  
 
 **Almanya/Hamburg**
 
-__12.09.2016 İstanbul Sabiha Gökçen Havalimanı-Hamburg Havalimanı;__
+*12.09.2016 11:30 İstanbul Sabiha Gökçen Havalimanı-Hamburg Havalimanı;*
+
+Hamburg'da kalacağımız otelin rezervasyonunu yine booking.com üzerinden yaptık. Otelimiz *ibis Hotel Hamburg Airport* ;havalimanına yakın ve ücretsiz servisi olan bir oteldi. Uçaktan indiğimiz zaman oteli arayarak transfer için bilgi istedim. 10 dk da bir servis olduğunu ve beklememiz gereken yeri tarif ettiler. Havalimanı iki katlı, servisler için üst katın dışında beklememiz gerekti. 10 dk'lık bir yolculuktan sonra otele ulaştık. 

@@ -4,7 +4,7 @@ title: Yol Haritam
 ---
 
 Yazılıma devam ederken öncelikle kendime bir yol haritası oluşturdum.
-Aslında ne yapmak istediğim ve bu aşamada neler yapmam gerektiğini; bu süreçte en büyük destekçim ve hocam, yazılım mimarı olan eşim Onuralp Taner ile birlikte belirledik. 
+Aslında ne yapmak istediğim ve bu aşamada neler yapmam gerektiğini; bu süreçte en büyük destekçim ve hocam, yazılım mimarı olan eşim *Onuralp Taner* ile birlikte belirledik. 
 
 
 Odaklandığımız nokta şu anda e-ticaret sitelerinin test yazılımları. Başlangıç olarak kodların ne şekilde yazıldığını ve arka planda çalışma şekillerini görmek açısından değişik dillerde kodlar yazdım ve şimdilik az çok mantığı kavradım. 
