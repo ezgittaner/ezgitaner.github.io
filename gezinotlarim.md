@@ -33,13 +33,13 @@ Sırbistan’ın parası biraz değersiz bu nedenle şehir ve şehir de yaşayan
 Gezilecek yerlerin başında;
 
 
-·         Kalemegdan Fortress
+*         Kalemegdan Fortress
 
-·         Stari Grad
+*         Stari Grad
 
-·         Skadarlija
+*         Skadarlija
 
-·         Nikola Tesla Museum,
+*         Nikola Tesla Museum,
 
 geliyor.
 
