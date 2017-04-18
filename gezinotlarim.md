@@ -28,6 +28,8 @@ Tesla’nın Belgrad için önemini de görmüş olduk. Nikola Tesla Sırp asıl
 
 Kaldığımız otel *‘’Hotel Bohemian Garni *** ’’* ,  booking.com üzerinden rezervasyon yaptık. Çalışanları ve ortamları çok samimiydi. Kaldığımız oda çok genişti ve minimalist tasarlanmıştı. 
 
+<img src="http://imageshack.com/a/img924/5005/HLeKnA.jpg">
+
  
 Sırbistan’ın parası biraz değersiz bu nedenle şehir ve şehir de yaşayan insanlar da orta düzey. Genel olarak yeme-içme çok ucuza geliyor fakat giyim ve elektronik konusunda Türkiye’ye göre  pahalı.
 
@@ -58,4 +60,14 @@ geliyor.
 
 *12.09.2016 11:30 İstanbul Sabiha Gökçen Havalimanı-Hamburg Havalimanı;*
 
+<img src="http://imageshack.com/a/img923/4244/zhcJxK.jpg">
+
 Hamburg'da kalacağımız otelin rezervasyonunu yine booking.com üzerinden yaptık. Otelimiz *ibis Hotel Hamburg Airport* ;havalimanına yakın ve ücretsiz servisi olan bir oteldi. Uçaktan indiğimiz zaman oteli arayarak transfer için bilgi istedim. 10 dk da bir servis olduğunu ve beklememiz gereken yeri tarif ettiler. Havalimanı iki katlı, servisler için üst katın dışında beklememiz gerekti. 10 dk'lık bir yolculuktan sonra otele ulaştık. 
+
+
+Hamburg'da hoşumuza giden şey düzeni ve kuralları oldu. Şehri gezerken şehir otobüslerini kullandık ve birçok yerliyle sohbet etme fırsatı bulduk. 
+
+
+Hafencity Hamburg'da görülmesi gereken yerler arasında bence başta geliyor. Hafencity'e gitmek için toplu taşıma teknelerini kullandık. Burada aynı zamanda turistler için citytour yapan gezi tekneleri de mevcut fakat bizim için ulaşım teknesi yeterli oldu. 
+
+<img src="http://imageshack.com/a/img922/3766/2ZIgHv.jpg">
