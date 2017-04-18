@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Belgrad (Sırbistan) notları..
+title: Gezi Notlarım
 permalink: /gezinotlarim/
 ---
 
-20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;
+**Sırbistan/Belgrad**
+
+__20.02.2017 15:40 İstanbul Sabiha Gökçen Havalimanı-Belgrad Nikola Tesla Havalimanı;__
  
 Uçuşumuz yaklaşık olarak 1 saat 20 dakika sürdü, indiğimiz zaman Türkiye ile Sırbistan saat farkının 2 saat olduğunu öğrenmiş olduk.
 
@@ -47,7 +49,11 @@ geliyor.
 Şehirdeki ulaşım seçenekleri;  otobüsler, ray hatları ve troleybüsler. Genellikle bu ulaşım araçları eski; evler, yapılar da eski mimari.
  
 
-23.02.2017 12:05 Belgrad Nikola Tesla Havalimanı-İstanbul Sabiha Gökçen;
+__23.02.2017 12:05 Belgrad Nikola Tesla Havalimanı-İstanbul Sabiha Gökçen;__
+
 3 gece 4 gün geçirmiş olduğumuz zaman dilimi Belgrad’ı  gezmemiz için tam kararındaydı. Dönüşte haritayı kullanarak A1 havalimanı transferinin olduğu noktaya ulaştık ve havalimanına kolayca gittik. Merkez – Havalimanı arası yaklaşık yarım saat sürdü. Havalimanında pasaport kontrolden geçtiğinizde genel olarak Sırbistan çıkış damgası basmıyorlar. Ama sisteme girildiğinden bu herhangi bir sorun teşkil etmiyor. Güvenlik kontrolünden geçtikten sonra uçağı bekleyeceğimiz oda(!) ya ulaştık. Havalimanı da eski ve beklediğimiz yer de çok küçüktü. Yarım saat rötarla uçağımıza binerek tatilimizi noktalamış olduk.
  
 
+**Almanya/Hamburg**
+
+__12.09.2016 İstanbul Sabiha Gökçen Havalimanı-Hamburg Havalimanı;__
