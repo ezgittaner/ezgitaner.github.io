@@ -216,7 +216,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $georgia;
   font-size: 18px;
-  color: $black
+  color: $black;
 
   @include mobile {
     float: none;
