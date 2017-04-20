@@ -85,3 +85,9 @@ Hafencity Hamburg'da görülmesi gereken yerler arasında bence başta geliyor. 
 14.09.2016-17.09.2016 
 
 <img src="http://imagizer.imageshack.us/v2/320x240q90/922/VnN0Bt.jpg">
+
+Hamburg'da 2 gece 3 gün kaldıktan sonra, Almanya'ya ait olan (DB) Deutsche Bahn'a ait tren ile yaklaşık olarak 3 saatlik yolculuğumuzun ardından Amsterdam'a ulaştık.
+
+Otelimiz yine booking.com üzerinden önceden rezervasyon ettiğimiz Hampshire Hotel - Lancaster Amsterdam'dı.
+
+<img src="http://imagizer.imageshack.us/v2/320x240q90/922/uH4do8.jpg">
