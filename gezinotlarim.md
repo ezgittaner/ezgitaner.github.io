@@ -60,7 +60,11 @@ geliyor.
 
 *12.09.2016 11:30 İstanbul Sabiha Gökçen Havalimanı-Hamburg Havalimanı;*
 
+12.09.2016-14.09.2016 Hamburg
+
 <img src="http://imageshack.com/a/img923/4244/zhcJxK.jpg">
+
+
 
 Hamburg'da kalacağımız otelin rezervasyonunu yine booking.com üzerinden yaptık. Otelimiz *ibis Hotel Hamburg Airport* ;havalimanına yakın ve ücretsiz servisi olan bir oteldi. Uçaktan indiğimiz zaman oteli arayarak transfer için bilgi istedim. 10 dk da bir servis olduğunu ve beklememiz gereken yeri tarif ettiler. Havalimanı iki katlı, servisler için üst katın dışında beklememiz gerekti. 10 dk'lık bir yolculuktan sonra otele ulaştık. 
 
@@ -74,5 +78,20 @@ Hafencity Hamburg'da görülmesi gereken yerler arasında bence başta geliyor. 
 
 
 
-**Brugge/Belgium**
+
+<img src="http://imagizer.imageshack.us/v2/320x240q90/922/Wl5S02.jpg">
+
+
+
+**Hollanda/Amsterdam**
+
+14.09.2016-17.09.2016 
+
+<img src="http://imagizer.imageshack.us/v2/320x240q90/922/VnN0Bt.jpg">
+
+Hamburg'da 2 gece 3 gün kaldıktan sonra, Almanya'ya ait olan (DB) Deutsche Bahn'a ait tren ile yaklaşık olarak 3 saatlik yolculuğumuzun ardından Amsterdam'a ulaştık.
+
+Otelimiz yine booking.com üzerinden önceden rezervasyon ettiğimiz Hampshire Hotel - Lancaster Amsterdam'dı.
+
+<img src="http://imagizer.imageshack.us/v2/320x240q90/922/uH4do8.jpg">
 

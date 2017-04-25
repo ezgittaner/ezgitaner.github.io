@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $comic;
   color: $darkerGray;
   font-weight: bold;
 
@@ -194,10 +194,11 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $comic;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+
 }
 
 .site-description {
@@ -215,12 +216,14 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  color: $black;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
+    
   }
 
   a {
@@ -281,6 +284,11 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.copyright {
+  padding: 20px;
+  font-size: 12px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

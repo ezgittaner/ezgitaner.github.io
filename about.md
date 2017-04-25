@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About me!
+title: Ezgi TANER
 permalink: /about/
 ---
+
+<a target="_blank" href="https://imageshack.com/i/poFzYXLhj"><img src="http://imagizer.imageshack.us/v2/320x240q90/924/FzYXLh.jpg" border="0"></a>
+
 
 2014 Yıldız Teknik Üniversitesi İnşaat Fakültesi Çevre Mühendisliği lisans mezunuyum.
 Sayılarla ve problem çözmeyle mutlu olan bir yapım var..
@@ -15,6 +18,4 @@ Kararsızlığımın bir getirisi olarak; başarmak için karar vermek benim iç
 
 
 
-
-### Contact me
 
