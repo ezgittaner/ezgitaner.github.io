@@ -100,4 +100,10 @@ Amsterdam denilince aklıma gece hayatı ve heryerde insanlardan çok görebilec
 *Red Light District*, *Dam Meydanı* Amsterdam'da gidilmesi gereken yerlerin başında geliyor. Ayrıca kaldığımız otelin karşıdında bulunan *Artis Hayvanat Bahçesi* de Türkiye'deki hayvanat bahçelerinden farklı. Fotoğraf çekilmeden dönülmeyen *IAmsterdam* yazısı da Museumplein bölgesinde yer alıyor. *booking.com* 'un genel merkezi de Amsterdam'da bulunuyor.
 
 
-**Brugge/Belçika**
+**Belçika/Brugge**
+
+17.09.2016-19.09.2017
+
+Amsterdam'dan Brugge'a yine tren ile geçerek otelimize otobüsle ulaştık. Brugge'da bütün şehir yapı olarak eski binalardan ve arnavut kaldırımlarından oluşuyor. Mimarisi görülmeye değer.
+
+Yine rezervasyonu booking.com üzerinden yapmış olduğumuz otelimiz *B&B Belgica* şimdiye kadar yapmış olduğum konaklamalar arasında en çok beğendiğim apart bir oteldi. Tek çalışanı ve sadece 4 odası olan apartta bu tarihlerde tek müşteri olmanın rahatlığı paha biçilemezdi.Brugge'da insanlar çok yardımsever ve küçük şehirlerini gezebilmemiz için her türlü olanağı bize sağladılar.
