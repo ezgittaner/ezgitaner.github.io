@@ -107,3 +107,5 @@ Amsterdam denilince aklıma gece hayatı ve heryerde insanlardan çok görebilec
 Amsterdam'dan Brugge'a yine tren ile geçerek otelimize otobüsle ulaştık. Brugge'da bütün şehir yapı olarak eski binalardan ve arnavut kaldırımlarından oluşuyor. Mimarisi görülmeye değer.
 
 Yine rezervasyonu booking.com üzerinden yapmış olduğumuz otelimiz *B&B Belgica* şimdiye kadar yapmış olduğum konaklamalar arasında en çok beğendiğim apart bir oteldi. Tek çalışanı ve sadece 4 odası olan apartta bu tarihlerde tek müşteri olmanın rahatlığı paha biçilemezdi.Brugge'da insanlar çok yardımsever ve küçük şehirlerini gezebilmemiz için her türlü olanağı bize sağladılar.
+
+**devam edecek..**
