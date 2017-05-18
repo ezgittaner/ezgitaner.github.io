@@ -95,7 +95,7 @@ Otelimiz yine booking.com üzerinden önceden rezervasyon ettiğimiz Hampshire H
 
 <img src="http://imagizer.imageshack.us/v2/320x240q90/922/uH4do8.jpg">
 
-Amsterdam denilince aklıma gece hayatı ve heryerde insanlardan çok görebileceğiniz bisikletleri geliyor. Bisiklet kiralamak ve şehri bisikletle gezmek Amsterdam'da yapılacak en güzel şeylerden biri. Almanya gibi düzenli ve bizim gittiğimiz dönemde sakindi. Bisikletler; arabalar ve insanlardan daha öncelikli. 
+Amsterdam denilince aklıma gece hayatı ve heryerde insanlardan çok görebileceğiniz bisikletleri geliyor. Bisiklet kiralamak ve şehri bisikletle gezmek Amsterdam'da yapılacak en güzel şeylerden biri. Bisikletler; arabalar ve insanlardan daha öncelikli. Heryerde genellikle Mac Bike'ın bisikletlerini gördük ve biz de oradan bisikletlerimizi kiraladık. Sigorta yaptırmak ve bisikleti teslim alırken size anlatılanları iyi dinlemek önemli, çünkü şehirde o kadar çok bisiklet olması çalınmalara da mahal veriyor. İki farklı şekilde bisiklet kilitlemeyi de öğrenip işimizi sağlama aldıktan sonra şehirde yaptığımız gezilerin verdiği keyif hala aklımda. Almanya gibi düzenli ve bizim gittiğimiz dönemde sakindi.  
 
 *Red Light District*, *Dam Meydanı* Amsterdam'da gidilmesi gereken yerlerin başında geliyor. Ayrıca kaldığımız otelin karşıdında bulunan *Artis Hayvanat Bahçesi* de Türkiye'deki hayvanat bahçelerinden farklı. Fotoğraf çekilmeden dönülmeyen *IAmsterdam* yazısı da Museumplein bölgesinde yer alıyor. *booking.com* 'un genel merkezi de Amsterdam'da bulunuyor.
 
