@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yazılıma devam..
+title: Yazılıma Devam..
 ---
 
 Verdiğim küçük bir aradan sonra öncelikle *meetup.com* üzerinden test için yapılan çeşitli söyleşilere, sunumlara katılmaya karar verdim. Öncelikli olarak 07.06.2017 tarihinde *QAlst meetup #4* e katılacağım ve bu meetuptan sonra edindiğim tecrübeleri yazıyor olacağım.
