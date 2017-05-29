@@ -10,5 +10,5 @@ Boş zamanları değerlendirmek adına *TestHive* grubunun yapmış olduğu meet
 
 Aşağıdaki linklerden videolara ulaşabilirsiniz.. 
 
-<a  href="https://www.youtube.com/watch?v=jMuR71NMC68">
-<a  href="https://www.youtube.com/watch?v=hdMRBpdHGbM">
+[Manual Testing] (https://www.youtube.com/watch?v=jMuR71NMC68)
+[Test Otomasyonu] (https://www.youtube.com/watch?v=hdMRBpdHGbM)
