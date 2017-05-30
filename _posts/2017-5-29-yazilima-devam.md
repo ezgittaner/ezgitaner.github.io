@@ -10,8 +10,12 @@ Boş zamanları değerlendirmek adına *TestHive* grubunun yapmış olduğu meet
 
 Aşağıdaki linklerden videolara ulaşabilirsiniz.. 
 
+
+<a href="https://www.youtube.com/watch?v=Z1HRJqZHwKQ" target="_blank">Performans Test Stratejileri</a>
+
 <a href="https://www.youtube.com/watch?v=jMuR71NMC68" target="_blank">Manual Testing</a>
 
 <a href="https://www.youtube.com/watch?v=hdMRBpdHGbM" target="_blank">Test Otomasyonu</a>
 
 <a href="https://www.youtube.com/watch?v=TWnFTaUIpOg" target="_blank">QA</a>
+
