@@ -3,7 +3,7 @@ layout: post
 title: Yazılıma Devam..
 ---
 
-Verdiğim küçük bir aradan sonra öncelikle *meetup.com* üzerinden test için yapılan çeşitli söyleşilere, sunumlara katılmaya karar verdim. Öncelikli olarak 07.06.2017 tarihinde *QAlst meetup #4* e katılacağım ve bu meetuptan sonra edindiğim tecrübeleri yazıyor olacağım.
+Verdiğim küçük bir aradan sonra öncelikle *meetup.com* üzerinden test için yapılan çeşitli söyleşilere, sunumlara katılmaya karar verdim. Öncelikli olarak 19.07.2017 tarihinde *QAIst Meetup #5* e katılacağım ve bu meetuptan sonra edindiğim tecrübeleri yazıyor olacağım.
 
 Boş zamanları değerlendirmek adına *TestHive* grubunun yapmış olduğu meetuplara ait videoları izleyerek, bilgi edinmeye çalışıyorum. 
 Öncelikle *Manuel Test* ile başladım ve *Test Otomasyonu* ile devam ediyorum. 
